@@ -1,0 +1,15 @@
+C:\dev\Bootcamp\projetoSmartphone\bin\Debug\net7.0\projetoSmartphone.exe
+C:\dev\Bootcamp\projetoSmartphone\bin\Debug\net7.0\projetoSmartphone.deps.json
+C:\dev\Bootcamp\projetoSmartphone\bin\Debug\net7.0\projetoSmartphone.runtimeconfig.json
+C:\dev\Bootcamp\projetoSmartphone\bin\Debug\net7.0\projetoSmartphone.dll
+C:\dev\Bootcamp\projetoSmartphone\bin\Debug\net7.0\projetoSmartphone.pdb
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.AssemblyInfo.cs
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.dll
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\refint\projetoSmartphone.dll
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.pdb
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\projetoSmartphone.genruntimeconfig.cache
+C:\dev\Bootcamp\projetoSmartphone\obj\Debug\net7.0\ref\projetoSmartphone.dll
