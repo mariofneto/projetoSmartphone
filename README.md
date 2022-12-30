@@ -1,7 +1,7 @@
 # Projeto SmartPhone
------------------------------------------------
+
 ## Contexto
------------------------------------------------
+
 Utilizando Programação Orientada a Objetos criei um sistema que trabalha com celulares
 
 Seu comportamento será individual do modelo do celular(nesse projeto temos Nokia e Iphone)
