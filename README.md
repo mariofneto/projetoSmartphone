@@ -1,4 +1,4 @@
-# Projeto SmartPhone
+# Projeto SmartPhone da DIO
 
 ## Contexto
 
